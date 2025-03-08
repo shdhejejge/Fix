@@ -249,20 +249,4 @@ def main():
     updater.idle()
 
 if __name__ == '__main__':
-    main()n())move_user, pass_args=True))
-    dp.add_handler(CommandHandler("users", list_users))
-
-    dp.add_handler(CommandHandler("check", check_attacks))
-    updater.start_polling()
-    updater.idle()
-
-if __name__ == '__main__':
-    main()n())ove_user, pass_args=True))
-    dp.add_handler(CommandHandler("users", list_users))
-
-    dp.add_handler(CommandHandler("check", check_attacks))
-    updater.start_polling()
-    updater.idle()
-
-if __name__ == '__main__':
-    main()n())
+    main()
